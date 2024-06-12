@@ -10,10 +10,12 @@ body {
 
 .container {
     text-align: center;
+    align-items: center;
 }
 
 h1 {
     color: #3F7D20;
+    font-size: 3rem;
 }
 
 button {
@@ -37,12 +39,35 @@ button:hover {
     align-items: center;
 }
 
+#question-container {
+    margin: 20px;
+    padding: 20px;
+   font-size: 2rem;
+}
+
 .btn-container button {
     margin: 5px;
     width: 200px;
+    font-size: larger;
+}
+
+#status {
+    margin-top: 20px;
+}
+
+#question-counter, #score {
+    width: 200px;
+    font-size: larger;
 }
 
 #timer {
     margin-top: 20px;
+    font-size: 1.5rem;
+}
+
+#scoreboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     font-size: 1.5rem;
 }
