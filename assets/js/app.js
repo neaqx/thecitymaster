@@ -36,6 +36,7 @@ const maxQuestions = 8;
 const scorePoints = 100;
 const scorePenalty = 50;
 let availableQuestions = [];
+let timerInterval;
 
 document.addEventListener("DOMContentLoaded", () => {
     if (window.location.pathname.endsWith('game.html')) {
@@ -78,10 +79,12 @@ function displayNextQuestion() {
         answerButtons.appendChild(button);
     });
     availableQuestions.splice(questionIndex, 1);
+    resetTimer();
     startTimer();
 }
 
 function selectAnswer(selectedIndex, correctIndex) {
+    clearInterval(timerInterval);
     if (selectedIndex === correctIndex) {
         score += scorePoints;
     } else {
@@ -93,7 +96,7 @@ function selectAnswer(selectedIndex, correctIndex) {
 function startTimer() {
     let timeLeft = 15;
     const timerElement = document.getElementById('timer');
-    const timerInterval = setInterval(() => {
+    timerInterval = setInterval(() => {
         if (timeLeft <= 0) {
             clearInterval(timerInterval);
             score -= scorePenalty;
@@ -103,6 +106,10 @@ function startTimer() {
             timeLeft--;
         }
     }, 1000);
+}
+
+function resetTimer() {
+    clearInterval(timerInterval);
 }
 
 function saveScore() {
