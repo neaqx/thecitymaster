@@ -1,0 +1,48 @@
+body {
+    font-family: 'Playfair Display', serif;
+    background-color: #EAF6FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    color: #3F7D20;
+}
+
+button {
+    background-color: #FFD166;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #EF233C;
+    color: white;
+}
+
+#quiz-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn-container button {
+    margin: 5px;
+    width: 200px;
+}
+
+#timer {
+    margin-top: 20px;
+    font-size: 1.5rem;
+}
