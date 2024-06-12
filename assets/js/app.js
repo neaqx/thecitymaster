@@ -2,7 +2,31 @@ const questions = [
     { question: "What is the capital of France?", answers: ["Paris", "London", "Berlin", "Madrid"], correct: 0 },
     { question: "What is the capital of Germany?", answers: ["Paris", "London", "Berlin", "Madrid"], correct: 2 },
     { question: "What is the capital of Spain?", answers: ["Paris", "London", "Berlin", "Madrid"], correct: 3 },
-    // Add 12 more questions
+    { question: "What is the capital of Italy?", answers: ["Paris", "London", "Berlin", "Madrid"], correct: 0 },
+    { question: "What is the capital of the United Kingdom?", answers: ["Paris", "London", "Berlin", "Madrid"], correct: 1 },
+    { question: "What is the capital of the United States?", answers: ["Paris", "Washington D.C.", "Berlin", "Madrid"], correct: 1 },
+    { question: "What is the capital of Canada?", answers: ["Paris", "London", "Berlin", "Ottawa"], correct: 3 },
+    { question: "What is the capital of Australia?", answers: ["Sydney", "London", "Canberra", "Melbourne"], correct: 2 },
+    { question: "What is the capital of Japan?", answers: ["Tokyo", "London", "Beijing", "Seoul"], correct: 0 },
+    { question: "What is the capital of China?", answers: ["Tokyo", "London", "Beijing", "Seoul"], correct: 2 },
+    { question: "What is the capital of South Korea?", answers: ["Tokyo", "London", "Beijing", "Seoul"], correct: 3 },
+    { question: "What is the capital of Brazil?", answers: ["Tokyo", "London", "Brasilia", "Seoul"], correct: 2 },
+    { question: "What is the capital of Russia?", answers: ["Moscow", "London", "Beijing", "Seoul"], correct: 0 },
+    { question: "What is the capital of India?", answers: ["Tokyo", "New Delhi", "Beijing", "Seoul"], correct: 1 },
+    { question: "What is the capital of Mexico?", answers: ["Tokyo", "London", "Mexico City", "Seoul"], correct: 2 },
+    { question: "What is the capital of South Africa?", answers: ["Tokyo", "London", "Beijing", "Pretoria"], correct: 3 },
+    { question: "What is the capital of Argentina?", answers: ["Tokyo", "London", "Buenos Aires", "Seoul"], correct: 2 },
+    { question: "What is the capital of Egypt?", answers: ["Tokyo", "London", "Cairo", "Seoul"], correct: 2 },
+    { question: "What is the capital of Nigeria?", answers: ["Tokyo", "London", "Beijing", "Abuja"], correct: 3 },
+    { question: "What is the capital of Indonesia?", answers: ["Tokyo", "London", "Jakarta", "Seoul"], correct: 2 },
+    { question: "What is the capital of Turkey?", answers: ["Tokyo", "London", "Ankara", "Seoul"], correct: 2 },
+    { question: "What is the capital of Saudi Arabia?", answers: ["Tokyo", "London", "Riyadh", "Seoul"], correct: 2 },
+    { question: "What is the capital of Iran?", answers: ["Tokyo", "London", "Tehran", "Seoul"], correct: 2 },
+    { question: "What is the capital of Pakistan?", answers: ["Tokyo", "London", "Beijing", "Islamabad"], correct: 3 },
+    { question: "What is the capital of Afghanistan?", answers: ["Tokyo", "London", "Kabul", "Seoul"], correct: 2 },
+    { question: "What is the capital of Iraq?", answers: ["Tokyo", "London", "Baghdad", "Seoul"], correct: 2 },
+  
+    
 ];
 
 let currentQuestionIndex = 0;
