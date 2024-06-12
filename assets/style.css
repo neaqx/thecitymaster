@@ -71,3 +71,12 @@ button:hover {
     align-items: center;
     font-size: 1.5rem;
 }
+
+.input-flied {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    border: 2px solid black;
+}
