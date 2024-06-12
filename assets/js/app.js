@@ -30,7 +30,6 @@ function startGame() {
     questionCounter = 0;
     availableQuestions = [...questions];
     displayNextQuestion();
-    startTimer();
 }
 
 function displayNextQuestion() {
@@ -55,6 +54,7 @@ function displayNextQuestion() {
         answerButtons.appendChild(button);
     });
     availableQuestions.splice(questionIndex, 1);
+    startTimer();
 }
 
 function selectAnswer(selectedIndex, correctIndex) {
@@ -72,6 +72,7 @@ function startTimer() {
     const timerInterval = setInterval(() => {
         if (timeLeft <= 0) {
             clearInterval(timerInterval);
+            score -= scorePenalty;
             displayNextQuestion();
         } else {
             timerElement.innerText = `Time left: ${timeLeft}s`;
