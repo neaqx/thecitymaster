@@ -80,3 +80,12 @@ button:hover {
     width: 100%;
     border: 2px solid black;
 }
+
+
+
+@media only screen and (max-width: 600px){
+    .input-flied {
+        width: 80%;
+    }
+}
+

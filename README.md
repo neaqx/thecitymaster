@@ -84,6 +84,7 @@ The primary objective of TheCitymaster is to combine learning with entertainment
     * Go Home button, which allows users to go back to the home page, where the leaderbroad is located.
 
 ![End-Page](/assets/images/end-page.png)
+![End-Page](/assets/images/end-page.png)
 
 
 * Quiz Result
