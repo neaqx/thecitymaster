@@ -98,9 +98,10 @@ The primary objective of TheCitymaster is to combine learning with entertainment
 ![Quiz Result](assets/images/scoreboard.png)
 
 Mobil perspective
-![Quiz Result](assets/images/lp-mobil.png | width=100)
-![Quiz Result](assets/images/game-mobil.png)
-![Quiz Result](assets/images/scoreboard-mobil.png)
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:|:-------------------------:
+![](assets/images/lp-mobil.png)  |  ![](assets/images/game-mobil.png) |  ![](assets/images/mobil-endpage.png)
 
 ## Features Left to Implement
 
