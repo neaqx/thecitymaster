@@ -76,7 +76,7 @@ The primary objective of TheCitymaster is to combine learning with entertainment
     * The progress counter is below the question and answers
     * The timer below the progress counter.
 
-![Landigpage](/assets/images/landigpage.png)
+![Landigpage](assets/images/landingpage.png)
 
 * Final Page
     * After the game, user can enter their username and save their score to the local storage.
