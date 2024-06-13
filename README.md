@@ -62,17 +62,19 @@ The primary objective of TheCitymaster is to combine learning with entertainment
 
 ## Features
 
-* The primary goal of Game Master is to create a captivating and interactive space where users can not only test but also enhance their knowledge. This platform is thoughtfully designed to engage users in an immersive learning experience, making the exploration of general knowledge. 
+* The primary goal of City Master is to create a captivating and interactive space where users can not only test but also enhance their knowledge about cities. This platform is thoughtfully designed to engage users in an immersive learning experience, making the exploration of general knowledge. 
 * High Scores table that displays high scores from different play sessions in the local enviroment
 * Responsive design that is optimized for different devices, such as desktop computers, tablets, and smartphones.
+*The timer gives the user a sense of urgency and excitement, encouraging quick thinking and enhancing the overall gameplay experience.
 
 ### Existing Features
 
 * Game page / Interface
     * Start game button, which can be accesed without an username.
-    * Recent scores display in the top right conor and the number of questions on the left top conor.
+    * Scoreboard button which redirect to scores, where the user can see the high scores.
     * Quiz questions are in the middle of the page.
-    * The progress bar is located under question counter
+    * The progress counter is below the question and answers
+    * The timer below the progress counter.
 
 ![Landigpage](/assets/images/landigpage.png)
 
@@ -89,7 +91,7 @@ The primary objective of TheCitymaster is to combine learning with entertainment
     * Score display: This feature displays the user's final score, reflecting their performance in the quiz.
     * Play again button: This button allows users to play the quiz again.
     * Username column: This column will display the usernames of different players who have achieved high scores.
-    *High Scores table is designed to showcase top performers and encourage friendly competition among players. It includes essential information such as usernames and scores, allowing users to compare their performance and track their progress over time.
+    * High Scores table is designed to showcase top performers and encourage friendly competition among players. It includes essential information such as usernames and scores, allowing users to compare their performance and track their progress over time.
     * This table will only include players from local enviroment, meaning from the same device. 
 
 ![Quiz Result](/assets/images/quizresultpage.png)
@@ -110,7 +112,7 @@ The primary objective of TheCitymaster is to combine learning with entertainment
     * Primary colors used on the website: ![Color Scheme](/assets/images/colorscheme.png)
 
  * Typography
-    * Nova font is the main font used throughout the website.
+    * Playfair Display is the main font used throughout the website.
 
  * Wireframes
     * Pen and paper in the Ipad: simple and effective.
@@ -197,7 +199,7 @@ The W3C Markup Validator, W3C CSS Validator and JSHint, a JavaScript Code Qualit
 ### Manual Testing 
 
 * The website was tested on Google Chrome, Microsoft Edge, and Opera browsers.
-* The website was viewed on a desktop computer, laptop, tablet, and a variety of mobile phones, such as Iphone 14.
+* The website was viewed on a desktop computer, laptop, tablet, and a variety of mobile phones, such as Iphone 15 and used chorme extentation "Mobil Simulator".
 * A large amount of testing was done to ensure links between pages are working correctly on all pages.
 * Family and friends were asked to review the website for a better understanding of the user experience.
 * Family and friends were asked to play the quiz and give feedback.
@@ -240,7 +242,7 @@ The W3C Markup Validator, W3C CSS Validator and JSHint, a JavaScript Code Qualit
 ### GitHub Pages
 
 GitHub Pages used to deploy live version of the website.
-1. Log in to GitHub and locate [GitHub Repository Game-Master](https://github.com/neaqx/thegamemaster)
+1. Log in to GitHub and locate [GitHub Repository City Master](https://github.com/neaqx/thegamemaster)
 2. At the top of the Repository(not the main navigation) locate "Settings" button on the menu.
 3. Scroll down the Settings page until you locate "GitHub Pages".
 4. Under "Source", click the dropdown menu "None" and select "Main" and click "Save".
@@ -251,13 +253,13 @@ GitHub Pages used to deploy live version of the website.
 
 By forking the repository, we make a copy of the original repository on our GitHub account to view and change without affecting the original repository by using these steps:
 
-1. Log in to GitHub and locate [GitHub Repository Game-Master](https://github.com/neaqx/thegamemaster)
+1. Log in to GitHub and locate [GitHub Repository City Master](https://github.com/neaqx/thegamemaster)
 2. At the top of the Repository(under the main navigation) locate "Fork" button.
 3. Now you should have a copy of the original repository in your GitHub account.
 
 ### Local Clone
 
-1. Log in to GitHub and locate [GitHub Repository Game-Master](https://github.com/neaqx/thegamemaster)
+1. Log in to GitHub and locate [GitHub Repository City Master](https://github.com/neaqx/thegamemaster)
 2. Under the repository name click "Clone or download"
 3. Click on the code button, select clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 4. Open Git Bash
@@ -280,7 +282,6 @@ By forking the repository, we make a copy of the original repository on our GitH
  ### Content
 
   * All content was written by the developer.
-  * [Font Awesome](https://fontawesome.com/) was used to obtain the free icon for the header.
   * Same icon was used to create a favicon the the website.
 
 ### Media
@@ -295,4 +296,4 @@ By forking the repository, we make a copy of the original repository on our GitH
 ## Acknowledgements
 
  * My mentor Mitko Bachvarov provided helpful feedback.
- * Slack community for encouragement.
+ 
