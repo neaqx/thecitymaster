@@ -20,7 +20,6 @@ The City Master is an engaging quiz game designed to test players' knowledge of 
 * [JSHint Results](#jshint-results)
 * [Manual Testing](#manual-testing)
 * [Fixed Bugs](#fixed-bugs)
-* [Lighthouse Report](#lighthouse-report)
 ### [Deployment](#deployment-1)
 * [GitHub Pages](#github-pages)
 * [Forking the GitHub Repository](#forking-the-github-repository)
@@ -99,7 +98,7 @@ The primary objective of The City Master is to combine learning with entertainme
 
 | ![Image 1](assets/images/lp-mobil.png) | ![Image 2](assets/images/game-mobil.png) 
 |---------------------------------------------|---------------------------------------------|
-| ![Image 4](assets/images/mobil-endpage.png) | ![Image 5](assets/images/mobil-sb.png) 
+| ![Image 3](assets/images/mobil-endpage.png) | ![Image 4](assets/images/mobil-sb.png) 
 
 
 
@@ -175,7 +174,7 @@ The W3C Markup Validator, W3C CSS Validator and JSHint, a JavaScript Code Qualit
 <summary>CSS files, No errors were found when passing through the official W3C CSS Validator. 
 </summary>
 
-![css-validation](/assets/images/css-validation.png)
+![css-validation](assets/images/city-css-validation.png)
 </details>
 
 ### JSHint results
