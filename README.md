@@ -4,7 +4,7 @@ The City Master is an engaging quiz game designed to test players' knowledge of 
 
 ![Am I responsive](/assets/images/am_I_responsive.png)
 
-[View Game Master live project here](https://neaqx.github.io/thegamemaster/)
+[View Game Master live project here](https://neaqx.github.io/thecitymaster/)
 - - -
 ## Table of Contents
 
@@ -33,9 +33,9 @@ The City Master is an engaging quiz game designed to test players' knowledge of 
 ---
 ## User Experience (UX)
 
-TheCitymaster is an engaging educational quiz game designed to test and enhance players' knowledge of world capitals. In each round, participants are presented with a question about a capital city, which they must answer within a strict 15-second time frame. This time constraint adds an element of urgency and excitement to the gameplay. Correct and prompt responses are rewarded with points, while incorrect or delayed answers result in point deductions, creating a dynamic and competitive environment.
+The City Master is an engaging educational quiz game designed to test and enhance players' knowledge of world capitals. In each round, participants are presented with a question about a capital city, which they must answer within a strict 15-second time frame. This time constraint adds an element of urgency and excitement to the gameplay. Correct and prompt responses are rewarded with points, while incorrect or delayed answers result in point deductions, creating a dynamic and competitive environment.
 
-The primary objective of TheCitymaster is to combine learning with entertainment, making it an effective tool for educational purposes. By encouraging quick thinking and reinforcing memory recall, the game helps players improve their geographical knowledge in an enjoyable and interactive manner. Additionally, TheCitymaster offers varying levels of difficulty, catering to a wide range of players from beginners to geography enthusiasts.
+The primary objective of The City Master is to combine learning with entertainment, making it an effective tool for educational purposes. By encouraging quick thinking and reinforcing memory recall, the game helps players improve their geographical knowledge in an enjoyable and interactive manner. Additionally, TheCitymaster offers varying levels of difficulty, catering to a wide range of players from beginners to geography enthusiasts.
 
 ### User Stories
 
@@ -91,17 +91,17 @@ The primary objective of TheCitymaster is to combine learning with entertainment
     * User's username and quiz performance: This feature displays the user's username and how well they performed in the quiz, giving them a sense of achievement and satisfaction.
     * Score display: This feature displays the user's final score, reflecting their performance in the quiz.
     * Back to Home button: This button allows users to return to the home page, where they can access other features such as the leaderboard and play the quiz again.
-    * Username column: This column will display the usernames of different players who have achieved high scores.
-    * High Scores table is designed to showcase top performers and encourage friendly competition among players. It includes essential information such as usernames and scores, allowing users to compare their performance and track their progress over time.
-    * This table will only include players from local enviroment, meaning from the same device. 
+
 
 ![Quiz Result](assets/images/scoreboard.png)
 
-Mobil perspective
+* Mobil perspective
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:|:-------------------------:
-![](assets/images/lp-mobil.png)  |  ![](assets/images/game-mobil.png) |  ![](assets/images/mobil-endpage.png)
+| ![Image 1](assets/images/lp-mobil.png) | ![Image 2](assets/images/game-mobil.png) 
+|---------------------------------------------|---------------------------------------------|
+| ![Image 4](assets/images/mobil-endpage.png) | ![Image 5](assets/images/mobil-scoreboard.png) 
+
+
 
 ## Features Left to Implement
 
@@ -248,24 +248,24 @@ The W3C Markup Validator, W3C CSS Validator and JSHint, a JavaScript Code Qualit
 ### GitHub Pages
 
 GitHub Pages used to deploy live version of the website.
-1. Log in to GitHub and locate [GitHub Repository City Master](https://github.com/neaqx/thegamemaster)
+1. Log in to GitHub and locate [GitHub Repository City Master](https://neaqx.github.io/thecitymaster/)
 2. At the top of the Repository(not the main navigation) locate "Settings" button on the menu.
 3. Scroll down the Settings page until you locate "GitHub Pages".
 4. Under "Source", click the dropdown menu "None" and select "Main" and click "Save".
 5. The page will automatically refresh.
-6. Scroll back to locate the now-published site [link](https://neaqx.github.io/thegamemaster/) in the "GitHub Pages" section.
+6. Scroll back to locate the now-published site [link](https://neaqx.github.io/thecitymaster/) in the "GitHub Pages" section.
 
 ### Forking the GitHub Repository
 
 By forking the repository, we make a copy of the original repository on our GitHub account to view and change without affecting the original repository by using these steps:
 
-1. Log in to GitHub and locate [GitHub Repository City Master](https://github.com/neaqx/thegamemaster)
+1. Log in to GitHub and locate [GitHub Repository City Master](https://neaqx.github.io/thecitymaster/)
 2. At the top of the Repository(under the main navigation) locate "Fork" button.
 3. Now you should have a copy of the original repository in your GitHub account.
 
 ### Local Clone
 
-1. Log in to GitHub and locate [GitHub Repository City Master](https://github.com/neaqx/thegamemaster)
+1. Log in to GitHub and locate [GitHub Repository City Master](https://neaqx.github.io/thecitymaster/)
 2. Under the repository name click "Clone or download"
 3. Click on the code button, select clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 4. Open Git Bash
