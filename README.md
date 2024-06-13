@@ -165,10 +165,10 @@ The W3C Markup Validator, W3C CSS Validator and JSHint, a JavaScript Code Qualit
 <summary>HTML files, no errors were returned when passing through the official W3C Markup Validator.
 </summary>
 
-![Home Page validation result](/assets/images/w3vcheckindex.png)<br>
-![Home Page validation result](/assets/images/w3vcheckend.png)<br>
-![Home Page validation result](/assets/images/w3vcheckscore.png)<br>
-![Home Page validation result](/assets/images/w3vcheckgame.png)<br>
+![Home Page validation result](assets/images/city-index-validation.png)<br>
+![Home Page validation result](assets/images/city-game-validation.png)<br>
+![Home Page validation result](assets/images/city-end-validation.png)<br>
+![Home Page validation result](assets/images/city-scoreboard-validation.png)<br>
 </details>
 
 <details>
@@ -184,21 +184,7 @@ The W3C Markup Validator, W3C CSS Validator and JSHint, a JavaScript Code Qualit
 <summary>app.js, No errors were found when passing through the official Jshint validator.
 </summary>
 
-![app-validation](/assets/images/app-js.png)
-</details>
-
-<details>
-<summary>end.js, No errors were found when passing through the official Jshint validator.
-</summary>
-
-![game-validation](/assets/images/game-js.png)
-</details>
-
-<details>
-<summary>score.js, No errors were found when passing through the official Jshint validator.
-</summary>
-
-![score-validation](/assets/images/score-js.png)
+![app-validation](assets/images/js-validation.png)
 </details>
 
 
@@ -223,25 +209,6 @@ The W3C Markup Validator, W3C CSS Validator and JSHint, a JavaScript Code Qualit
 * The code checks if the mostRecentScore is -1 and that is how it triggers the redirect to index.html page
 
 
-
-### Lighthouse Report
-
-#### Mobile analysis
-<details>
-<summary>Performance
-</summary>
-
-![Home Page lighthouse report](/assets/images/lighthouse-mobile.png)
-</details>
-
-#### Desktop analysis
-
-<details>
-<summary>Performance
-</summary>
-
-![Home Page lighthouse report](/assets/images/lighthouse-desktop.png)
-</details>
 
 ## Deployment
 
