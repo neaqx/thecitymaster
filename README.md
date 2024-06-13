@@ -99,7 +99,7 @@ The primary objective of The City Master is to combine learning with entertainme
 
 | ![Image 1](assets/images/lp-mobil.png) | ![Image 2](assets/images/game-mobil.png) 
 |---------------------------------------------|---------------------------------------------|
-| ![Image 4](assets/images/mobil-endpage.png) | ![Image 5](assets/images/mobil-scoreboard.png) 
+| ![Image 4](assets/images/mobil-endpage.png) | ![Image 5](assets/images/mobil-sb.png) 
 
 
 
