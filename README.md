@@ -77,14 +77,14 @@ The primary objective of TheCitymaster is to combine learning with entertainment
     * The timer below the progress counter.
 
 ![Landigpage](assets/images/landingpage.png)
+![End-Page](/assets/images/end-page.png)
 
 * Final Page
     * After the game, user can enter their username and save their score to the local storage.
     * Play again button, which allows users to play the quiz again.
     * Go Home button, which allows users to go back to the home page, where the leaderbroad is located.
 
-![End-Page](/assets/images/end-page.png)
-![End-Page](/assets/images/end-page.png)
+![End-Page](assets/images/last-page.png)
 
 
 * Quiz Result
@@ -95,7 +95,7 @@ The primary objective of TheCitymaster is to combine learning with entertainment
     * High Scores table is designed to showcase top performers and encourage friendly competition among players. It includes essential information such as usernames and scores, allowing users to compare their performance and track their progress over time.
     * This table will only include players from local enviroment, meaning from the same device. 
 
-![Quiz Result](/assets/images/quizresultpage.png)
+![Quiz Result](assets/images/scoreboard.png)
 
 
 ## Features Left to Implement
