@@ -98,7 +98,9 @@ The primary objective of TheCitymaster is to combine learning with entertainment
 ![Quiz Result](assets/images/scoreboard.png)
 
 Mobil perspective
-![Quiz Result](assets/images/lp-mobil.png)|![Quiz Result](assets/images/game-mobil.png)|![Quiz Result](assets/images/scoreboard-mobil.png)
+![Quiz Result](assets/images/lp-mobil.png | width=100)
+![Quiz Result](assets/images/game-mobil.png)
+![Quiz Result](assets/images/scoreboard-mobil.png)
 
 ## Features Left to Implement
 
