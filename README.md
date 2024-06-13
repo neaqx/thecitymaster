@@ -42,7 +42,7 @@ The primary objective of TheCitymaster is to combine learning with entertainment
 * First-time visitor goals
     * Understand the main purpose of the website, that its a quiz game.
     * Starting quiz-game.
-    * Taking the quiz with eight and one bonus questions.
+    * Taking the quiz with eight.
     * Checking & typing their score in the High Scores inputflied.
     * Enjoying the overall experience.
 
