@@ -90,13 +90,15 @@ The primary objective of TheCitymaster is to combine learning with entertainment
 * Quiz Result
     * User's username and quiz performance: This feature displays the user's username and how well they performed in the quiz, giving them a sense of achievement and satisfaction.
     * Score display: This feature displays the user's final score, reflecting their performance in the quiz.
-    * Play again button: This button allows users to play the quiz again.
+    * Back to Home button: This button allows users to return to the home page, where they can access other features such as the leaderboard and play the quiz again.
     * Username column: This column will display the usernames of different players who have achieved high scores.
     * High Scores table is designed to showcase top performers and encourage friendly competition among players. It includes essential information such as usernames and scores, allowing users to compare their performance and track their progress over time.
     * This table will only include players from local enviroment, meaning from the same device. 
 
 ![Quiz Result](assets/images/scoreboard.png)
 
+Mobil perspective
+![Quiz Result](assets/images/lp-mobil.png)|![Quiz Result](assets/images/game-mobil.png)|![Quiz Result](assets/images/scoreboard-mobil.png)
 
 ## Features Left to Implement
 
@@ -110,7 +112,7 @@ The primary objective of TheCitymaster is to combine learning with entertainment
 ## Design
 
  * Colour Scheme
-    * Primary colors used on the website: ![Color Scheme](/assets/images/colorscheme.png)
+    * Primary colors used on the website: ![Color Scheme](assets/images/color.png)
 
  * Typography
     * Playfair Display is the main font used throughout the website.
